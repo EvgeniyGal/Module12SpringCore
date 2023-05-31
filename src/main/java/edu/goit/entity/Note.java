@@ -5,6 +5,6 @@ import lombok.Data;
 @Data
 public class Note {
     private long id;
-    private String name;
+    private String title;
     private String content;
 }
